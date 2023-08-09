@@ -38,7 +38,8 @@ const Footer = () => {
               fontSize: "1rem",
             },
           }}
-        <h1>Created by Hari Narayan</h1>
+            >
+        Created by Hari Narayan
         
         </Typography>
       </Box>
