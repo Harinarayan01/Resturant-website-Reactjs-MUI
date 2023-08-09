@@ -38,8 +38,8 @@ const Footer = () => {
               fontSize: "1rem",
             },
           }}
-        >
-          All Rights Reserved &copy; Techinfo YT
+        <h1>Created by Hari Narayan</h1>
+        
         </Typography>
       </Box>
     </>
